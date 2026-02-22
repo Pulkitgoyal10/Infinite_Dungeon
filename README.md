@@ -45,6 +45,13 @@ This project implements a unique **Dual-SDK AI Architecture** to handle distinct
 
 ---
 
+## Sample site view
+
+<img width="1845" height="783" alt="image" src="https://github.com/user-attachments/assets/be8607f3-408c-4335-a934-4865f4f8d8e1" />
+
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1. Prerequisites
